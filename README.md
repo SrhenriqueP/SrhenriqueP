@@ -27,7 +27,6 @@
   <a href = "mailto:luizhenriquepaulinogba@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luizhenriquepaulino/=" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="luiz-henrique-b60913282" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/luiz-henrique-b60913282?trk=profile-badge">Luiz Henrique</a></div>
               
  
  ![snake gif](https://github.com/SrhenriqueP/MrLHenrique/blob/output/github-contribution-grid-snake.svg)
